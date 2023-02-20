@@ -6,6 +6,9 @@ Install Azure Functions extension in VS Code or Idea IDE and login using the pro
 Once logged in, select the subscription and create an Azure Function through the IDE and select HttpTrigger template and Java with all other settings as default.
 
 
+This will create a Template for you.
+
+
 ### To Connect the Function to CosmosDB edit the settings.json file to add the connection string.
 
 ```
