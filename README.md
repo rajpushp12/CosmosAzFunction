@@ -1,5 +1,5 @@
 # CosmosAzFunction
-Azure Function to fetch response from CosmosDB Containers
+## Azure Function to fetch response from CosmosDB Containers
 
 Since Azure Functions does't support creation of Java Project through Azure Portal, it should be done using VS Code or Intellij Idea.
 Install Azure Functions extension in VS Code or Idea IDE and login using the promt.
