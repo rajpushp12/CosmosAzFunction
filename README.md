@@ -51,4 +51,4 @@ public class Function {
 }
 ```
 
-Build and Run the Maven Project. The DB has been connected and any change in the DB will logged in the terminal.
+Build and Run the Maven Project. The DB has been connected and any change in the DB will be logged in the terminal.
